@@ -1,0 +1,14 @@
+/* 4 - External CSS */
+
+body {
+    padding-bottom: 500px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+h3 {
+    color: green;
+}
+
+p {
+    color: blueviolet;
+    
+}
